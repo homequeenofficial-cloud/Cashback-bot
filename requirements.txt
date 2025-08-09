@@ -1,5 +1,7 @@
+pip==25.1.1
 aiogram==3.4.1
 pydantic==2.5.3
 pydantic-core==2.14.6
 gspread==5.7.2
 google-auth==2.21.0
+
